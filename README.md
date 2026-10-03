@@ -14,4 +14,4 @@ Ambiente de testes e homologação.
 Ambiente de produção.
 
 ## Desenvolvedores
-- Gabriel Gobira de Souza
+- Marcella Anataniel Souza
